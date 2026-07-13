@@ -171,7 +171,7 @@ Choose the installation mode that matches your usage: globally for your agent, o
 ### Install globally — Codex
 
 ```bash
-git clone https://github.com/mahmoumaima/QIOS.git
+git clone https://github.com/oumaimah-QA/QIOS
 mkdir -p ~/.codex/skills
 cp -r QIOS/skills/* ~/.codex/skills/
 cp QIOS/AGENTS.md ~/.codex/AGENTS.md
