@@ -288,7 +288,7 @@ QA Engineer · Business Analyst · Fintech
 *Focused on building structured, execution-ready QA systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://www.linkedin.com/in/884055190/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmoumaima-181717?logo=github)](https://github.com/mahmoumaima/QIOS)
+[![GitHub]https://github.com/oumaimah-QA/QIOS
 
 ---
 
